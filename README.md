@@ -29,7 +29,7 @@ Innovations:
 | ஓ | o: | oː |
 | ஔ | au | aʊ̯ |
 | (nasalization, spoken only) | - (hyphen following vowel) | nasal vowel ([ãː], [õː], etc.) |
-| (shortened உ, spoken only<sup>1</sup>) | u/ | ɯ~ɨ,  |
+| (shortened உ, spoken only<sup>1</sup>) | u/ | ɯ~ɨ |
 
 1. Word final /u/ is pronounced as [ɯ], this phenomenon is called kuṟṟiyalukaram (or, in natchat, kutriyalugaram).
 
