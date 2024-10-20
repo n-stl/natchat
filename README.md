@@ -31,7 +31,7 @@ Innovations:
 | (nasalization, spoken only) | - (hyphen following vowel) | nasal vowel ([ãː], [õː], etc.) |
 | (shortened உ, spoken only<sup>1</sup>) | u/ | ɯ~ɨ |
 
-1. Word final /u/ is pronounced as [ɯ], this phenomenon is called kuṟṟiyalukaram (or, in natchat, kutriyalugaram).
+1. Word final /u/ is pronounced as [ɯ], this phenomenon is called kuṟṟiyalukaram (or, in natchat, kutriyalugaram). This representation is optional and may be used if accuracy in phonetics is important.
 
 ## consonants
 
