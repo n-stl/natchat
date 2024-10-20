@@ -91,3 +91,7 @@ Loaned [Grantha](https://en.wikipedia.org/wiki/Tamil_script#Extra_consonants_use
 | ஸ் | s | s |
 | ஹ் | h | h |
 | க்ஷ் | ksh | kʂ |
+
+## see also
+
+Anunaadam's excellent description of modern Tamil phonology and IPA: https://anunaadam.appspot.com/transcription
