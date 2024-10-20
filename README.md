@@ -81,7 +81,7 @@ Notes:
 
 Loaned [Grantha](https://en.wikipedia.org/wiki/Tamil_script#Extra_consonants_used_in_Tamil) consonants:
 | grantha consonant | natchat equivalent | [IPA](https://en.wikipedia.org/wiki/Help:IPA/Tamil) |
-| --- | --- |
+| --- | --- | --- |
 | ஜ | j | dʑ |
 | ஶ் | `s | ɕ |
 | ஷ் | sh | ʂ |
