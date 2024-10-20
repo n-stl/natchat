@@ -17,7 +17,7 @@ Features:
 | tamil script | IPA | ITRANS | ISO | 'orthographical' natchat | 'simple' natchat |
 | --- | --- | --- | --- | --- | --- |
 | மனிதப் பிறவியினர் சகலரும் சுதந்திரமாகவே பிறக்கின்றனர் | mənid̪əp‿piriʋijinər səgələrum sud̪ən̪d̪irəmaːgəʋeː pirəkːin̺d̺ranər | ma^nithap piRaviyi^nar chagalarum chudhandhiramAgavE piRakki^nRa^nar | maṉitap piṟaviyiṉar cakalarum cutantiramākavē piṟakkiṉṟaṉar | manidhap pi^raviyinar cagalarum cudha_ndhirama:gave: pi^rakkind^ranar | manidha piraviyinar sagalarum sudhandhirama:gave: pirakkindranar |
-| ஏழை கிழவன் வாழைப் பழத் தோல் மேல் சருசருக்கி வழுவழுக்கி கீழே விழுந்தான் |  | Ezhai kizhavan vAzhaippazhath thOl mEl charucharukki vazhuvazhukki kIzhE vizhundhAn | ēḻai kiḻavaṉ vāḻaip paḻat tōl mēl carucarukki vaḻuvaḻukki kīḻē viḻuntāṉ | e:;rai ki;ravan va:;raip pa;rath tho:l me:l sarusarukki va;ruva;rukki ki:;re: vi;ru_ndha:n | e:rhai kirhavan va:rhaip parhath tho:l me:l sarusarukki varhuvarhukki ki:rhe: virhundha:n |
+| ஏழை கிழவன் வாழைப் பழத் தோல் மேல் சருசருக்கி வழுவழுக்கி கீழே விழுந்தான் |  | Ezhai kizhavan vAzhaippazhath thOl mEl charucharukki vazhuvazhukki kIzhE vizhundhAn | ēḻai kiḻavaṉ vāḻaip paḻat tōl mēl carucarukki vaḻuvaḻukki kīḻē viḻuntāṉ | e:\rai ki\ravan va:\raip pa\rath tho:l me:l sarusarukki va\ruva\rukki ki:\re: vi\ru_ndha:n | e:rhai kirhavan va:rhaip parhath tho:l me:l sarusarukki varhuvarhukki ki:rhe: virhundha:n |
 
 Some immediate differences become apparent:
 - Unlike ISO transliteration, natchat captures spoken allophones and pronunciation changes (medial k becoming g, th becoming dh, c becoming s, intrusive t/d in trill combinations)
