@@ -17,7 +17,7 @@ Features:
 | tamil script | IPA | ITRANS | ISO | 'orthographical' natchat | 'simple' natchat |
 | --- | --- | --- | --- | --- | --- |
 | மனிதப் பிறவியினர் சகலரும் சுதந்திரமாகவே பிறக்கின்றனர் | mənid̪əp‿piriʋijinər səgələrum sud̪ən̪d̪irəmaːgəʋeː pirəkːin̺d̺ranər | ma^nithap piRaviyi^nar chagalarum chudhandhiramAgavE piRakki^nRa^nar | maṉitap piṟaviyiṉar cakalarum cutantiramākavē piṟakkiṉṟaṉar | manidhap pi^raviyinar cagalarum cudha_ndhirama:gave: pi^rakkind^ranar | manidha piraviyinar sagalarum sudhandhirama:gave: pirakkindranar |
-| ஏழை கிழவன் வாழைப் பழத் தோல் மேல் சருசருக்கி வழுவழுக்கி கீழே விழுந்தான். |  | Ezhai kizhavan vAzhaip pazhath thOl mEl charucharukki vazhuvazhukki kIzhE vizhundhAn |  | e:;rai ki;ravan va:;raip pa;rath tho:l me:l sarusarukki va;ruva;rukki ki:;re: vi;ru_ndha:n | e:rhai kirhavan va:rhaip parhath tho:l me:l sarusarukki varhuvarhukki ki:rhe: virhundha:n |
+| ஏழை கிழவன் வாழைப் பழத் தோல் மேல் சருசருக்கி வழுவழுக்கி கீழே விழுந்தான் |  | Ezhai kizhavan vAzhaippazhath thOl mEl charucharukki vazhuvazhukki kIzhE vizhundhAn | ēḻai kiḻavaṉ vāḻaip paḻat tōl mēl carucarukki vaḻuvaḻukki kīḻē viḻuntāṉ | e:;rai ki;ravan va:;raip pa;rath tho:l me:l sarusarukki va;ruva;rukki ki:;re: vi;ru_ndha:n | e:rhai kirhavan va:rhaip parhath tho:l me:l sarusarukki varhuvarhukki ki:rhe: virhundha:n |
 
 Some immediate differences become apparent:
 - Unlike ISO transliteration, natchat captures spoken allophones and pronunciation changes (medial k becoming g, th becoming dh, c becoming s, intrusive t/d in trill combinations)
@@ -78,7 +78,7 @@ Retroflex consonants are written with a preceding period, apart from ழ் whic
 Notes:
 1. .t and .d can be alternatively written t and d since there is no equivalent alveolar sound in written Tamil, thus no confusion in a Tamil context. However, since they are unique from AmEng "t" and "d", to preserve retroflex representation, they are written here with a period preceding. 
 2. If it is unnecessary to distinguish ன் from ந், both can be written as n. Similarly, if it is unnecessary to distinguish ர் from ற், both can be written as r.
-3. For representing retroflex approximant ழ், several options are possible depending on what is easiest to read. New romanizations \r ;r and rh represent the similarity between ழ் and AmEng rhotic "r" or Chinese pinyin "r", while new romanization lh represents its "L-ness" and merger with .l in many speakers. zh is carried over from legacy transliteration schemes and may be easier to read for some readers or in some words, e.g. after colons.
+3. For representing retroflex approximant ழ், several options are possible depending on what is easiest to read. New romanizations \r ;r and rh represent the similarity between ழ் and AmEng "r" or Chinese pinyin "r", while new romanization lh represents its "L-ness" and merger with ள் in many speakers. zh is carried over from legacy transliteration schemes and may be easier to read for some readers or in some words, e.g. after colons.
 4. For ease of representing the phonetic change caused by Tamil grammar for digraphs ற்ற and ன்ற, a t or d is placed in between the consonants, respectively. Similarly, for representing the phonetic change in the digraph ஞ்ச, it can simply be written nj rather than ~nc.
 
 Loaned [Grantha](https://en.wikipedia.org/wiki/Tamil_script#Extra_consonants_used_in_Tamil) consonants:
