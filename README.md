@@ -43,9 +43,9 @@ natchat vowels are broadly similar to IPA, apart from ä being simplified to a. 
 | ஓ | o: | oː |
 | ஔ | au | aʊ̯ |
 | (nasalization, spoken only) | - (hyphen following vowel) | nasal vowel ([ãː], [õː], etc.) |
-| (shortened உ, spoken only<sup>1</sup>) | u/ | ɯ~ɨ |
+| (shortened உ or இ, spoken only <sup>1</sup>) | u/ or i/ | ɯ~ɨ |
 
-1. Word final /u/ is pronounced as [ɯ], this phenomenon is called குற்‌றியலுகரம்‌ (kut^riyalugaram). This representation u/ is optional and may be used if phonological accuracy is desired.
+1. Word final /u/ is pronounced as [ɯ], this phenomenon is called குற்‌றியலுகரம்‌ (kut^riyalugaram). This representation u/ is optional and may be used if phonological accuracy is desired. Similarly, /i/ preceding /j/ is shortened.
 
 ## consonants
 Retroflex consonants are written with a preceding period, apart from ழ் which is written \r to represent its rough similarity to AmEng "r". Doubled retroflex consonants may be written with a single preceding period for simplicity, for example ku.tti குட்டி. Dental consonants can be written with a preceding underscore if necessary.
