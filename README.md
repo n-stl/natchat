@@ -69,6 +69,7 @@ Retroflex consonants are written with a preceding period, apart from ழ் whic
 | ழ் | \r | ɻ |
 | ள் | .l | ɭ |
 | ற் | ^r or r <sup>2</sup> | r |
+| ன் | n | n |
 | (doubled consonant) | letter written twice | consonant+ ː|
 | ற்ற | t^r or tr <sup>3</sup> | tːr |
 | ன்ற | nd^r or ndr <sup>3</sup> | ndr |
